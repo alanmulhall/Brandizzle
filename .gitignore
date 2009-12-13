@@ -1,0 +1,9 @@
+.DS_STORE
+log/*.log
+tmp/**/*
+tmp/*
+config/database.yml
+db/*.sqlite3
+coverage/*
+coverage.data
+*.tmproj
